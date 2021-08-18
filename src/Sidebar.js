@@ -30,7 +30,7 @@ function Sidebar() {
             <input placeholder="Search or Start new chat" type="text" /></div>
         </div>
         <div className="sidebar__chats">
-        <Sidebarchat/>
+        <Sidebarchat addNewChat/>
         <Sidebarchat/>
         <Sidebarchat/>
         <Sidebarchat/>
